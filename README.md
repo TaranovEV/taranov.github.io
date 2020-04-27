@@ -1,10 +1,10 @@
 Таранов Евгений Валерьевич
 --
-Мужчина, 31 год, родился 22 июня 1988
-Москва, м. Нахимовский проспект, готов к переезду, готов к командировкам
-Контакты
-+7 (919) 542-25-08 
-tar_ev@mail.ru
+Мужчина, 31 год, родился 22 июня 1988<br>
+Москва, м. Нахимовский проспект, готов к переезду, готов к командировкам<br>
+Контакты:<br>
++7 (919) 542-25-08<br> 
+tar_ev@mail.ru<br>
 <hr>
 
 ### Data Scientist/ Data Engineer  
@@ -56,15 +56,15 @@ www.X5.ru
 
 #### Ключевые навыки
 
-Python
-Pandas
-NumPy
-MS Project
-SQL
-sklearn
-Linux
-Jupyter Notebook
-Математическая статистика
+Python,
+Pandas,
+NumPy,
+MS Project,
+SQL,
+sklearn,
+Linux,
+Jupyter Notebook,
+Математическая статистика,
 Pytorch
 
 <hr>
